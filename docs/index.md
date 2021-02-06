@@ -1,6 +1,6 @@
 ## Project 1 Learning Objectives
 >Create a website application that passes through a string of uppercase or lowercase alphabetic characters than can be encrypted using a Caesar Cipher encryption function. 
-
+- **To Use the actual application click** [Here](code/Project1.html)
 ### Part 1
 >  Create a JavaScript function that accepts three parameters, and returns the Caesar Cipher encrypted text
 Function name: `CaesarEncrypt(clearText, shiftNum, shiftLeft)`
