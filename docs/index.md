@@ -38,13 +38,14 @@ To see the JS code for parts 2 & 3 click [Here](code/Project1.js)
     - Provide some type of user input for the number of characters to shift (e.g., input box)
     - Provide some type of user input to determine left or right shift (e.g., checkbox)
     - Include a slider to make the character shift number easier to manage
-To view the HTMl code click [Here](code/Project1.html)
 ### Part 4 (extra credit)
 > Optionally add CSS to format the output. 
 To view the CSS code click [Here](code/Project1.css)
 
 
 ## Final Product
+To Use the actual application click [Here](code/Project1.html)
+
 ![Image of encoding Message](images/encode.png)
 ![Image of decoding Message](images/decode.png)
 
