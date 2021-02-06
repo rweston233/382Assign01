@@ -43,8 +43,8 @@ To see the JS code for parts 2 & 3 click [Here](code/Project1.js)
 To view the CSS code click [Here](code/Project1.css)
 
 
-## Final Product
-To Use the actual application click [Here](code/Project1.html)
+# Final Product
+**To Use the actual application click** [Here](code/Project1.html)
 
 >> Back to home page:
 [Home](https://rweston233.github.io/)
