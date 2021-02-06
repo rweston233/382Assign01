@@ -46,8 +46,5 @@ To view the CSS code click [Here](code/Project1.css)
 ## Final Product
 To Use the actual application click [Here](code/Project1.html)
 
-![Image of encoding Message](images/encode.png)
-![Image of decoding Message](images/decode.png)
-
 >> Back to home page:
 [Home](https://rweston233.github.io/)
