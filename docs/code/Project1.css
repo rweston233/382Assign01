@@ -1,0 +1,34 @@
+img {
+    width: 250px;
+    border-radius: 50%;
+}
+
+#header {
+    color: #03fcdb; /*teal*/ 
+}
+
+div {text-align: center;}
+
+#OutputDiv {
+    font-weight: bold;
+}
+
+body {background-color: coral;}
+
+#SubAlpha{ 
+    color: white;
+    font-weight: bold;
+}
+
+#ClearButton {
+    background-color: #4ca8af; /* auqa blue */
+    border: none;
+    color: white;
+    padding: 12px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    border-radius: 8px;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, 0.18);
+  }

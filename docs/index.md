@@ -27,6 +27,8 @@ Function name: `CaesarEncrypt(clearText, shiftNum, shiftLeft)`
     - Array map() method or Array forEach() method 
     - Template literal for the output
     -  String fromCharCode() method
+
+To see the JS code for parts 2 & 3 click [Here](code/Project1.js)
 ### Part 3
 > This part of the assignment involves creating the user interface (UI) for the web application, and connecting the user interface elements to the code.
 - **The User Interface must:**
@@ -36,9 +38,15 @@ Function name: `CaesarEncrypt(clearText, shiftNum, shiftLeft)`
     - Provide some type of user input for the number of characters to shift (e.g., input box)
     - Provide some type of user input to determine left or right shift (e.g., checkbox)
     - Include a slider to make the character shift number easier to manage
+To view the HTMl code click [Here](code/Project1.html)
 ### Part 4 (extra credit)
 > Optionally add CSS to format the output. 
+To view the CSS code click [Here](code/Project1.css)
+
 
 ## Final Product
 ![Image of encoding Message](images/encode.png)
 ![Image of decoding Message](images/decode.png)
+
+>> Back to home page:
+[Home](https://rweston233.github.io/)

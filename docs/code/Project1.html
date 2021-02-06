@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Caesar Cipher</title>
+    <style></style>
+    <link rel="stylesheet" href="Project1.css" />
+    <script src="Project1.js"></script>
+  </head>
+  <body>
+      <div id="header">
+    <img src="Riv.png" alt="River's Pic" />
+    <h1>River's Caesar Cipher</h1>
+</div>
+    <div>
+      Cleartext: <input id="clearText" type="input" size="100" value="Hi my Name is River Weston" oninput="CaesarSubstitutionAlphabet(shiftNum, shiftLeft)"/>&nbsp;
+      <button id="ClearButton">Clear</button>
+      <nav>
+        <hr />
+        Caesar Cipher:
+        <div id="OutputDiv" />
+        <hr />
+        <div id="AlphaDiv" />
+      </nav>
+    </div>
+    <form>
+      <div>
+        <input
+          id="shiftNum"
+          type="number"
+          value="0"
+          min="0"
+          max="26"
+          oninput="CaesarSubstitutionAlphabet(shiftNum, shiftLeft)"
+          oninput="inputRange.value=shiftNum.value"
+        />
+        <input
+          id="inputRange"
+          type="range"
+          value="0"
+          min="0"
+          max="26"
+          oninput="CaesarSubstitutionAlphabet(shiftNum.value=inputRange.value, shiftLeft)"
+          oninput="shiftNum.value=inputRange.value"
+        />
+        <label for="shiftLeft">Shift Left: </label>
+        <input id="shiftLeft" type="checkbox" oninput="CaesarSubstitutionAlphabet(shiftNum, shiftLeft)" oninput="shiftLeft.value=shiftLeft.checked"/>
+      </div>
+    </form>
+    <!-- printing on the page for part 4  -->
+    <div id="SubAlpha"></div>
+  </body>
+</html>
