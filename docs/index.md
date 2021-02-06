@@ -12,7 +12,7 @@ Function name: `CaesarEncrypt(clearText, shiftNum, shiftLeft)`
 
 ### Part 2 
 >Create a JavaScript function that outputs the Caesar Cipher substitution alphabet (Links to an external site.) using the ASCII table between decimal value 33 (!) and 127 (~). The function will return separate div elements for each alphabetic letter
-`Function name: CaesarSubstitutionAlphabet(shiftNum, shiftLeft)`
+Function name: `CaesarSubstitutionAlphabet(shiftNum, shiftLeft)`
 - **Parameters**
     - **shiftnum:**  the integer number of positions to shift
     - **shiftLeft:**  the Boolean value of whether the shifting is left (`true`), or right (`false`)
